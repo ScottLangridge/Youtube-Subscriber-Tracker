@@ -1,2 +1,2 @@
-# pewdiepie-tseries-tracker
-A web scraper which periodically looks at an online tracker to find the sub count of Pewdiepie and T-Series and logs them or sends a push notification depending on which you're running.
+# Pewdiepie vs T-Series Tracker
+A web scraper which periodically looks at an online tracker to find the sub count of Pewdiepie and T-Series and logs them or sends a push notification depending on which script you're running. I'm not especially invested in who has the most subscribers, but it gave me a chance to play with web-scraping and sending notifications. Both of which I had never done before.

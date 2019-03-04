@@ -1,0 +1,5 @@
+*.pyc
+user_key.txt
+api_key.txt
+log_html.txt
+scraped_html.txt
